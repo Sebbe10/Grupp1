@@ -13,9 +13,11 @@ let p2 = new Person("Hejsan");
 
 let p3 = new Person("Tjaba");
 
+let p4 = new Person("Tjabaaaaa");
+
 let names = 0;
 
-let myuls = [p, p1, p2];
+let myuls = [p, p1, p2, p3, p4];
 
 let ulTag = document.getElementById("myUL");
 
