@@ -15,7 +15,7 @@ let p3 = new Person("Tjaba");
 
 let names = 0;
 
-let myuls = [p, p1, p2, p3];
+let myuls = [p, p1, p2];
 
 let ulTag = document.getElementById("myUL");
 
